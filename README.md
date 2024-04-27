@@ -1,1 +1,1 @@
-[상대적 참조](../../../../flag)
+[상대적 참조](/assets/index-B-HCGMKL.js)
