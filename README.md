@@ -1,1 +1,1 @@
-[GOOGLE](file://flag)
+![대체텍스트](file://etc/passwd)
