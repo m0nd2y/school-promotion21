@@ -1,1 +1,1 @@
-[GOOGLE](https://google.com)
+[GOOGLE](file://flag)
